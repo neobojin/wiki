@@ -1,4 +1,4 @@
-# Bojin wiki home
+# Bojin wiki
 [Markdown](markdown.md)
 [Atom](atom.md)
 [ブラウザ三国志](bra3.md)
