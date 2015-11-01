@@ -1,6 +1,10 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
+<<<<<<< HEAD
     "additionalFooterText": "All content and images &copy; by bojin ",
+=======
+    "additionalFooterText": "All content and images &copy; by bojin",
+>>>>>>> origin/master
     "anchorCharacter": "#"
 }
